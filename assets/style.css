@@ -1,0 +1,29 @@
+footer
+{
+    text-align: center;
+}
+header
+{
+background-color: #28A745;
+}
+footer img {
+    max-width: 20%; /* La imagen no excederá el ancho de su contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+.card {
+    padding: 20px !important; 
+    margin: 10px !important;
+}
+.card-body
+{
+    text-align: right !important;
+}
+a.precio_rebajado
+{
+    color: #28A745 !important;
+    font-weight: bold !important; 
+}
+a.precio_normal
+{
+ color: black !important;
+}
